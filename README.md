@@ -23,7 +23,7 @@ This project requires the following dependencies
 
 You can run the following command to install all dependencies
 
-* $ pip install keras tensorflow asyncio python-socketip numpy pandas pillow
+    $ pip install keras tensorflow asyncio python-socketip numpy pandas pillow
 
 ## Running
 
