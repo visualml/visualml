@@ -1,5 +1,5 @@
 Note: This is the old version of visualml that requires running a server and is no longer updated. The fully client side implmentation can be found [here](https://github.com/visualml/visualml.github.io). 
-# Visual ML
+# Visual Machine Learning
 
 Machine learning is becoming more and more popular every day. However, learning machine learning can often be a very difficult task. Newcomers are presented with a lot of math, programming, and complicated concepts, distracting them from understanding the basics.
 
